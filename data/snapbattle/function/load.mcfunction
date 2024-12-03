@@ -1,1 +1,1 @@
-tellraw @a "Hello!"
+tellraw @a "Snap Battle Datapack Loaded"

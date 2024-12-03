@@ -1,5 +1,6 @@
 # Clear Schedule
 schedule clear snapbattle:gather_timer
+tag @a remove deathmatch
 
 # Add Scoreboards
 scoreboard objectives add timer dummy
